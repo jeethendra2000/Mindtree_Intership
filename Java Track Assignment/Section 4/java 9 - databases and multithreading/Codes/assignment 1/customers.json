@@ -1,0 +1,22 @@
+{
+    "customers": [
+      {
+        "custId": "1542",
+        "custName": "SUbham Panda",
+        "city": "Bubaneswar",
+        "pin": 751001
+      },
+      {
+        "custId": "1652",
+        "custName": "Shiva Kumar",
+        "city": "Cuttack",
+        "pin": 753021
+      },
+      {
+        "custId": "1865",
+        "custName": "Rahul Hatke",
+        "city": "Puri",
+        "pin": 752034
+      }
+    ]
+  }

@@ -1,0 +1,22 @@
+{
+    "customers": [
+      {
+        "custId": "1542",
+        "custName": "jeethendra",
+        "city": "Hassan",
+        "pin": 573220
+      },
+      {
+        "custId": "1652",
+        "custName": "Shiva Kumar",
+        "city": "gulbarga",
+        "pin": 573201
+      },
+      {
+        "custId": "1865",
+        "custName": "jay",
+        "city": "Hassan",
+        "pin": 573201
+      }
+    ]
+  }
